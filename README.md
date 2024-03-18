@@ -4,7 +4,7 @@
 
 위치와 리뷰를 기반으로 한 서울시 맛집 추천 서비스 **Foodpalette**
 
-![logo](image.png)
+![logo](image/image.png)
 
 <br>
 
@@ -39,16 +39,16 @@
 
 ## 4. 전체 아키텍처
 
-![architecture1](image-1.png)
+![architecture1](image/image-1.png)
 
 
 ### 백엔드 아키텍처
 
-![architecture2](image-2.png)
+![architecture2](image/image-2.png)
 
 ### 데이터 파이프라인
 
-![architecture3](image-3.png)
+![architecture3](image/image-3.png)
 
 <br>
 
@@ -70,21 +70,21 @@
 
 ### Backend
 
-![backend erd](image-4.png)
+![backend erd](image/image-4.png)
 
 ### Analytics
 
-![analytics erd](image-5.png)
+![analytics erd](image/image-5.png)
 
 
 ## 6. 웹 화면
 
-![main page](image-6.png)
+![main page](image/image-6.png)
 
-![main page 2](image-7.png)
+![main page 2](image/image-7.png)
 
 <br>
 
-![search page](image-8.png)
+![search page](image/image-8.png)
 
-![search page 2](image-9.png)
+![search page 2](image/image-9.png)
